@@ -71,7 +71,7 @@ $ cd anime-api
 $ npm install
 ```
 
-2. Refer the [.env.example](https://github.com/itzzzme/anime-api/blob/main/.env.example) file to setup `.env` file
+2. Refer the [.env.example](https://github.com/B1PL0B/anime-api/.env.example) file to setup `.env` file
 
 ```bash
 # Origins you want to allow
